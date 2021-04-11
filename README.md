@@ -14,9 +14,8 @@ __A faire :__<br>
 - ...
 
 **Reste aussi à faire :** (demandé dans le brief)<br>
-`Expliquer le choix de l'architecture utilisée dans le modèle.
-
-Afficher la courbe de la fonction loss (Entraînement et validation), la courbe de l'accuracy du modèle (demandé dnas le brief)`<br>
+`Expliquer le choix de l'architecture utilisée dans le modèle.`<br>
+`Afficher la courbe de la fonction loss (Entraînement et validation), la courbe de l'accuracy du modèle (demandé dnas le brief)`<br>
 --> ajouter accuracy aux metrics de l'entrainement .fit pour pouvoir tracer la courbe
 
 
