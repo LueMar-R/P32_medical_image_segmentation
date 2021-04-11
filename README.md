@@ -13,8 +13,9 @@ __A faire :__<br>
 - Sortir les prédictions sur le X_test ? (mais quel est l'intérêt vu qu'on a pas les labels ?)
 - ...
 
-**Reste aussi à faire :** *(demandé dnas le brief)*
-`Expliquer le choix de l'architecture utilisée dans le modèle.<br>
+**Reste aussi à faire :** (demandé dans le brief)<br>
+`Expliquer le choix de l'architecture utilisée dans le modèle.
+
 Afficher la courbe de la fonction loss (Entraînement et validation), la courbe de l'accuracy du modèle (demandé dnas le brief)`<br>
 --> ajouter accuracy aux metrics de l'entrainement .fit pour pouvoir tracer la courbe
 
